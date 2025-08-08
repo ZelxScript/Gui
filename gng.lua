@@ -1,5 +1,5 @@
 return {
-    "forting1716",
-    "kopal281",
+    "king",
+    "rizz",
     "azunaaqti"
 }
