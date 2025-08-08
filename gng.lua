@@ -1,3 +1,5 @@
-D3F4ULTL00K
-azunaaqti
-StrictlyMusic
+return {
+    "forting1716",
+    "kopal281",
+    "azunaaqti"
+}
