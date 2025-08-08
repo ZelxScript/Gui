@@ -1,5 +1,1 @@
-return {
-    "king",
-    "rizz",
-    "azunaaqti"
-}
+didjshwhwhwhbw
